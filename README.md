@@ -7,7 +7,7 @@ Imagine que você é um detetive do K-pop, procurando por informações sobre se
 
 Com ela, você digita o nome do membro e pronto, a aplicação te mostra tudo o que encontrou sobre ele nos nossos dados: fotos, vídeos, curiosidades... Tudo bem organizado e fácil de achar!
 
-Como funciona a nova tcnologia? ✨
+Como funciona a nova tecnologia? ✨
 
 Você digita: Escreve o nome do seu bias no campo de pesquisa.
 A aplicação busca: Ela vasculha todos os nossos dados, procurando por aquele nome.
